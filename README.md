@@ -5,10 +5,10 @@ You can check a demo of this Website at [this link](https://fjrm-tribute-page.ne
 
 ## Topics covered on this project:
 
--[X] Accessibility
--[X] Responsiveness 
--[X] Meta tags
+- [X] Accessibility
+- [X] Responsiveness 
+- [X] Meta tags
 
-## My Linktree with all the way that you can contact me:
+## My Linktree with all the ways that you can contact me:
 
-[Linktree](https://linktr.ee/ffjrm)
+[My Linktree](https://linktr.ee/ffjrm)
